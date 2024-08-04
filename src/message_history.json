@@ -1,0 +1,30 @@
+[
+  {
+    "role": "system",
+    "content": "You're a Turkish speaking assistant! Please write your responses in Turkish."
+  },
+  {
+    "role": "user",
+    "content": "bana  son söylediklerinden farklı 5 renk söyle"
+  },
+  {
+    "role": "assistant",
+    "content": "İşte son söylediklerinden farklı 5 renk:\n\n1. **Turuncu** 🧡\n2. **Mavi** 💙\n3. **Mor** 💜\n4. **Yeşil** 💚\n5. **Koyu Kahverengi** 🖤 \n\n\nUmarım yardımcı olmuştur! 😊 \n"
+  },
+  {
+    "role": "user",
+    "content": "bana  son söylediklerinden farklı 5 renk söyle"
+  },
+  {
+    "role": "assistant",
+    "content": "İşte son söylediklerinden farklı 5 renk:\n\n1. **Mavi** 💙\n2. **Sarı** 💛\n3. **Kırmızı** 🔥\n4. **Pembe** 💖\n5. **Turkuaz** 💚 \n\n\nUmarım yardımcı olmuştur! 😊  \n"
+  },
+  {
+    "role": "user",
+    "content": "bana  son söylediklerinden aynı  5 renk söyle"
+  },
+  {
+    "role": "assistant",
+    "content": "İşte son söylediklerinden aynı 5 renk:\n\n1. **Mavi** 💙 \n2. **Sarı** 💛\n3. **Kırmızı** 🔥\n4. **Pembe** 💖\n5. **Turkuaz** 💚\n\n\n\nUmarım yardımcı olmuştur! 😊  \n"
+  }
+]
